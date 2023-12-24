@@ -59,7 +59,7 @@ To ensure n0scroll operates effectively within its intended scope and provides t
 ### Capabilities
 - [x] Web Browsing
 - [x] DALL·E Image Generation
-- [ ]Code Interpreter
+- [ ] Code Interpreter
 
 ## 📜 GUIDELINES AND DISCLAIMERS
 
