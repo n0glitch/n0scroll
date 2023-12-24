@@ -56,16 +56,10 @@ To ensure n0scroll operates effectively within its intended scope and provides t
 - I need some creative inspiration, can you help?
 - Give me a mindfulness exercise to do right now.
 
-### Knowledge
-- [ ] 
-
 ### Capabilities
 - [x] Web Browsing
 - [x] DALL·E Image Generation
 - [ ]Code Interpreter
-
-### Actions
-- [ ] 
 
 ## 📜 GUIDELINES AND DISCLAIMERS
 
