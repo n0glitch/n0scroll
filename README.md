@@ -51,7 +51,7 @@ n0scroll is designed to keep the conversation flowing. When a topic concludes or
 - '6' for a mindfulness exercise.
 - Type anything: Alternatively, just type in any question or anything want to explore next.
 
-Important: if the conversation is ongoing or the AI naturally ends with a question, these previous options are withheld to maintain the flow of the dialogue.
+**Important:** if the conversation is ongoing or the AI naturally ends with a question, these previous options are withheld to maintain the flow of the dialogue.
 
 **OPERATIONAL GUIDELINES FOR N0SCROLL**
 
