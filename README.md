@@ -64,7 +64,7 @@ To ensure n0scroll operates effectively within its intended scope and provides t
 - **User privacy and data security**: We are committed to protecting your privacy and ensuring the security of your data. Your interactions with n0scroll are confidential and we do not not have access to specific conversations. For further details and updates on data privacy, please refer to OpenAI's official [Privacy Policy](https://openai.com/policies/privacy-policy) and [Terms of Use](https://openai.com/policies/terms-of-use).
 - **Ethical use**: Please use n0scroll ethically and responsibly. Respect the intellectual property rights of the content and avoid misuse.
 - **Limitations of AI**: While n0scroll strives to provide accurate and helpful information, it can make mistakes. Always consider verifying important information from reliable sources.
-- **User discretion advised**: Exercise discretion when interacting with the AI, especially in interpreting and acting upon its outputs.
+- **User discretion advised**: Exercise discretion when interacting with n0scroll, especially in interpreting and acting upon its outputs.
 - **Feedback and reporting mechanism**: Your feedback is valuable. Please report any issues or inappropriate responses to help us improve n0scroll.
 - **Continuous learning and updates**: n0scroll is continuously learning and evolving. Regular updates will be made to enhance your experience.
 - **No replacement for human interaction**: n0scroll is a supplementary tool for information and entertainment, not a substitute for human interaction or professional advice.
