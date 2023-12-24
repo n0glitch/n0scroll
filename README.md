@@ -7,8 +7,7 @@ n0scroll is a custom GPT tailored for transforming idle moments into opportuniti
 1. **Choose your language**: n0scroll is available in English at [n0scroll.com/en](https://n0scroll.com/en), in German at [n0scroll.com/de](https://n0scroll.com/de), in French at [n0scroll.com/fr](https://n0scroll.com/fr), in Spanish at [n0scroll.com/es](https://n0scroll.com/es) and in Italian at [n0scroll.com/es](https://n0scroll.com/es).
 2. **Select your interest**: Choose from a range of topics like facts, puzzles, language learning, etc.
 3. **Engage and grow**: Interact with n0scroll, enjoying personalized content and activities.
-4. **Reflect and apply**: After each session, reflect on the knowledge gained or the creativity sparked.
-5. **Integrate into routine**: Make n0scroll a part of your daily life for continuous learning and personal development.
+4. **Integrate into routine**: Make n0scroll a part of your daily life for continuous learning and personal development.
 
 ## 🤖 CUSTOM GPT SETTINGS
 These are the settings used under the **Configure** tab to set-up the custom GPT.
