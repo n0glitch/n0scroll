@@ -53,6 +53,7 @@ To ensure n0scroll operates effectively within its intended scope and provides t
 - Please share a quick brain teaser or puzzle.
 - I want some creative inspiration, can you help?
 - Give me a mindfulness exercise to do now.
+- Provide a quick health tip about physical or mental well-being.
 
 ### Capabilities
 - [x] Web Browsing
